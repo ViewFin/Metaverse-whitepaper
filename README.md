@@ -1,10 +1,8 @@
-METAVERSE - 元界
+#METAVERSE - 元界
 --------------------------------------
 
 #What is [Metaverse](http://ico.viewfin.com) ?
 From Smart Properties, Avatars and Oracles to A New Virtual Society
-
-向Mac下优秀的markdown编辑器mou致敬
 
 ##Chapters of Whitepaper
 Abstract    3
