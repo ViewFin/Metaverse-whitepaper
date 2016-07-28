@@ -1,10 +1,8 @@
-METAVERSE - 元界
+<font color=#8A2BE2 size=7 face="微软雅黑">METAVERSE - 元界</font>
 --------------------------------------
 
-#What is [Metaverse](ico.viewfin.com) ?
+#What is [Metaverse](http://ico.viewfin.com) ?
 From Smart Properties, Avatars and Oracles to A New Virtual Society
-
-向Mac下优秀的markdown编辑器mou致敬
 
 ##Chapters of Whitepaper
 Abstract    3
@@ -68,6 +66,6 @@ Once reaching maturity, the codes of Metaverse will be published on github (http
 
 ##Abouts
 * [维优 viewfin](http://viewfin.com)
-* [海枫藤数字资产 szzc.com](http://szzc.com)
+* [海枫藤数字资产 szzc.com](https://szzc.com)
 
 
