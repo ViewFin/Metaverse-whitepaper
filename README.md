@@ -67,7 +67,7 @@ Once reaching maturity, the codes of Metaverse will be published on github (http
 
 
 ##Abouts
-* [viewfin](viewfin.com)
-* [hft szzc.com](szzc.com)
+* [维优 viewfin](http://viewfin.com)
+* [海枫藤数字资产 szzc.com](http://szzc.com)
 
 
