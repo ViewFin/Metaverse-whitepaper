@@ -1,7 +1,9 @@
 <font color=#8A2BE2 size=7 face="微软雅黑">METAVERSE - 元界</font>
 --------------------------------------
 
-#What is [Metaverse](http://ico.viewfin.com) ?
+Obsoleted repostiory for Metaverse , please refers to <https://mvs.org> 
+
+#What is [Metaverse](https://mvs.org) ?
 From Smart Properties, Avatars and Oracles to A New Virtual Society
 
 ##Chapters of Whitepaper
